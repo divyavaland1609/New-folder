@@ -1,0 +1,48 @@
+header{
+    background-color: aqua;
+    text-align: center;
+    font-size: 20px;
+    height: 100px;
+    width: 100;
+
+}
+
+nav{
+    background-color: chocolate;
+    text-align: center;
+    font-size: 20px;
+    height: 100px;
+}
+
+#one{
+    background-color: blueviolet;
+    height: 170px;
+    width: 150px;
+    text-align: center;
+    font-size: 20px;
+
+}
+#two{
+    background-color: brown;
+    height: 170px;
+    width: 150px;
+    text-align: center;
+    font-size: 20px;
+}
+#three{
+    background-color: cadetblue;
+    height:170px;
+    width: 150px;
+    text-align: center;
+    font-size: 20px;
+}
+footer{
+    background-color: chartreuse;
+    text-align: center;
+    font-size: 20px;
+    height: 100px;
+    width: 100;
+}
+#xyz{
+    background-color: darkgreen;
+}
